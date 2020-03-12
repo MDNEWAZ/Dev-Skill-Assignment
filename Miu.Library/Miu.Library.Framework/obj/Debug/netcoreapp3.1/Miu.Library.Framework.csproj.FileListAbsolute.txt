@@ -1,0 +1,11 @@
+G:\Miu.Library\Miu.Library.Framework\bin\Debug\netcoreapp3.1\Miu.Library.Framework.deps.json
+G:\Miu.Library\Miu.Library.Framework\bin\Debug\netcoreapp3.1\Miu.Library.Framework.dll
+G:\Miu.Library\Miu.Library.Framework\obj\Debug\netcoreapp3.1\Miu.Library.Framework.csprojAssemblyReference.cache
+G:\Miu.Library\Miu.Library.Framework\obj\Debug\netcoreapp3.1\Miu.Library.Framework.AssemblyInfoInputs.cache
+G:\Miu.Library\Miu.Library.Framework\obj\Debug\netcoreapp3.1\Miu.Library.Framework.AssemblyInfo.cs
+G:\Miu.Library\Miu.Library.Framework\bin\Debug\netcoreapp3.1\Miu.Library.Framework.pdb
+G:\Miu.Library\Miu.Library.Framework\bin\Debug\netcoreapp3.1\Miu.Library.Data.dll
+G:\Miu.Library\Miu.Library.Framework\bin\Debug\netcoreapp3.1\Miu.Library.Data.pdb
+G:\Miu.Library\Miu.Library.Framework\obj\Debug\netcoreapp3.1\Miu.Library.Framework.csproj.CopyComplete
+G:\Miu.Library\Miu.Library.Framework\obj\Debug\netcoreapp3.1\Miu.Library.Framework.dll
+G:\Miu.Library\Miu.Library.Framework\obj\Debug\netcoreapp3.1\Miu.Library.Framework.pdb

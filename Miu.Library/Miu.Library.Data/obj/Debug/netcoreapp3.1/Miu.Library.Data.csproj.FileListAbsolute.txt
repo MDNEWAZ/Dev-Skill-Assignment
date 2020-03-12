@@ -1,0 +1,8 @@
+G:\Miu.Library\Miu.Library.Data\bin\Debug\netcoreapp3.1\Miu.Library.Data.deps.json
+G:\Miu.Library\Miu.Library.Data\bin\Debug\netcoreapp3.1\Miu.Library.Data.dll
+G:\Miu.Library\Miu.Library.Data\obj\Debug\netcoreapp3.1\Miu.Library.Data.AssemblyInfoInputs.cache
+G:\Miu.Library\Miu.Library.Data\obj\Debug\netcoreapp3.1\Miu.Library.Data.AssemblyInfo.cs
+G:\Miu.Library\Miu.Library.Data\bin\Debug\netcoreapp3.1\Miu.Library.Data.pdb
+G:\Miu.Library\Miu.Library.Data\obj\Debug\netcoreapp3.1\Miu.Library.Data.csprojAssemblyReference.cache
+G:\Miu.Library\Miu.Library.Data\obj\Debug\netcoreapp3.1\Miu.Library.Data.dll
+G:\Miu.Library\Miu.Library.Data\obj\Debug\netcoreapp3.1\Miu.Library.Data.pdb
